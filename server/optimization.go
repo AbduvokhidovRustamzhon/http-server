@@ -58,13 +58,13 @@ func AnswerToHttp(http string, conn net.Conn) {
 	}
 	index += download
 	if file == "" {
-		file = "C:/Users/Admin/Desktop/http-server/server/files/main.html"
+		file = "././main.html"
 	}
 
 	all, err := ioutil.ReadFile(file)
 	if err != nil {
 		log.Printf("can't read file %v", err)
-		file = "C:/Users/Admin/Desktop/http-server/server/files/error404.jpg"
+		file = "././error404.jpg"
 		all, err = ioutil.ReadFile(file)
 		if err != nil {
 			log.Printf("can't read file %v", err)
