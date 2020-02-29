@@ -1,4 +1,4 @@
-module http-server
+module github.com/AbduvokhidovRustamzhon/http-server
 
 go 1.13
 
