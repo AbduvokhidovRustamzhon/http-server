@@ -10,6 +10,7 @@ import (
 )
 
 func main() {
+
 	file, err := os.OpenFile("server-log.txt", os.O_CREATE|os.O_APPEND|os.O_WRONLY, 0666)
 	if err != nil {
 		fmt.Printf("can't open log file %e", err)
