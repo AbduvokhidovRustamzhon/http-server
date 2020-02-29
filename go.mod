@@ -1,5 +1,5 @@
 module github.com/AbduvokhidovRustamzhon/http-server
 
-go 1.12
+go 1.13
 
-// +heroku goVersion gol.12
+// +heroku goVersion go1.13
