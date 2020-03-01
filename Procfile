@@ -1,1 +1,1 @@
-web: customhttp
+web: http

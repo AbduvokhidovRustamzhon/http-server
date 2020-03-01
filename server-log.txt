@@ -1,3 +1,0 @@
-2020/03/01 02:35:12 start application
-2020/03/01 02:35:19 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 02:35:20 can't read file open favicon.ico: The system cannot find the file specified.
