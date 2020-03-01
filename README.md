@@ -1,1 +1,1 @@
-https://server-http-1.herokuapp.com
+https://server-http-1.herokuapp.com/
