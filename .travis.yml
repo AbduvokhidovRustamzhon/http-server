@@ -1,9 +1,9 @@
-language: go
+languge: go
 go:
   - 1.13.x
 script:
   - go test -v ./...
 deploy:
   provider: heroku
-  api_key: $HEROKU_KEY
+  api-key: $HEROKU_KEY
   app: server-http-1
