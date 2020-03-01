@@ -1,1 +1,1 @@
-web: server.exe
+web: http-server
