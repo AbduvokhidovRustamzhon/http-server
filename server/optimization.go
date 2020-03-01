@@ -9,23 +9,7 @@ import (
 	"strings"
 )
 
-
 var ContentType = make(map[string]string)
-
-
-func Init() {
-	ContentType["/"] = "Content-Type: file/html\r\n"
-	ContentType["jpg"] = "Content-Type: image/jpg\r\n"
-	ContentType["jpg?download"] = "Content-Disposition: attachment; filename = photo.jpg\r\n"
-	ContentType["png"] = "Content-Type: image/png\r\n"
-	ContentType["png?download"] = "Content-Disposition: attachment; filename = photo.png\r\n"
-	ContentType["html"] = "Content-Type: text/html\r\n"
-	ContentType["html?download"] = "Content-Disposition: attachment; filename = file.html\r\n"
-	ContentType["txt"] = "Content-Type: text/html\r\n"
-	ContentType["txt?download"] = "Content-Disposition: attachment; filename = text.txt\r\n"
-	ContentType["pdf"] = "Content-Type: application/pdf\r\n"
-	ContentType["jpg?download"] = "Content-Disposition: attachment; filename=error404.jpg\r\n"
-}
 
 func AnswerToHttp(http string, conn net.Conn) {
 	var index string
@@ -107,4 +91,18 @@ func AnswerToHttp(http string, conn net.Conn) {
 		log.Printf("can't send string %v", err)
 		return
 	}
+}
+
+func Init() {
+	ContentType["/"] = "Content-Type: file/html\r\n"
+	ContentType["jpg"] = "Content-Type: image/jpg\r\n"
+	ContentType["jpg?download"] = "Content-Disposition: attachment; filename = photo.jpg\r\n"
+	ContentType["png"] = "Content-Type: image/png\r\n"
+	ContentType["png?download"] = "Content-Disposition: attachment; filename = photo.png\r\n"
+	ContentType["html"] = "Content-Type: text/html\r\n"
+	ContentType["html?download"] = "Content-Disposition: attachment; filename = file.html\r\n"
+	ContentType["txt"] = "Content-Type: text/html\r\n"
+	ContentType["txt?download"] = "Content-Disposition: attachment; filename = text.txt\r\n"
+	ContentType["pdf"] = "Content-Type: application/pdf\r\n"
+	ContentType["jpg?download"] = "Content-Disposition: attachment; filename=error404.jpg\r\n"
 }

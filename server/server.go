@@ -59,7 +59,7 @@ func startServer(addr string) error {
 			log.Printf("can't connect client")
 			continue
 		}
-		fmt.Println("some connection")
+		fmt.Println("connection...")
 		go handleConnection(conn)
 	}
 }
