@@ -1,0 +1,56 @@
+2020/03/01 09:53:16 start application
+2020/03/01 09:53:31 can't read file open ././main.html: The system cannot find the file specified.
+2020/03/01 09:53:31 can't read file open ././error404.jpg: The system cannot find the file specified.
+2020/03/01 09:53:31 can't read file open ././main.html: The system cannot find the file specified.
+2020/03/01 09:53:31 can't read file open ././error404.jpg: The system cannot find the file specified.
+2020/03/01 09:53:31 can't read file open ././main.html: The system cannot find the file specified.
+2020/03/01 09:53:31 can't read file open ././error404.jpg: The system cannot find the file specified.
+2020/03/01 09:53:31 can't read file open ././main.html: The system cannot find the file specified.
+2020/03/01 09:53:31 can't read file open ././error404.jpg: The system cannot find the file specified.
+2020/03/01 09:53:36 can't read file open ././main.html: The system cannot find the file specified.
+2020/03/01 09:53:36 can't read file open ././error404.jpg: The system cannot find the file specified.
+2020/03/01 09:53:39 incorrect request
+2020/03/01 09:53:39 incorrect request
+2020/03/01 09:53:55 can't read file open ././main.html: The system cannot find the file specified.
+2020/03/01 09:53:55 can't read file open ././error404.jpg: The system cannot find the file specified.
+2020/03/01 09:53:59 incorrect request
+2020/03/01 09:54:25 can't read file open ././main.html: The system cannot find the file specified.
+2020/03/01 09:54:25 can't read file open ././error404.jpg: The system cannot find the file specified.
+2020/03/01 09:54:29 incorrect request
+2020/03/01 09:54:29 incorrect request
+2020/03/01 09:55:04 start application
+2020/03/01 09:55:07 can't read file open ./files/main.html: The system cannot find the path specified.
+2020/03/01 09:55:07 can't read file open ./files/error404.jpg: The system cannot find the path specified.
+2020/03/01 09:55:08 can't read file open ./files/main.html: The system cannot find the path specified.
+2020/03/01 09:55:08 can't read file open ./files/error404.jpg: The system cannot find the path specified.
+2020/03/01 09:55:08 can't read file open ./files/main.html: The system cannot find the path specified.
+2020/03/01 09:55:08 can't read file open ./files/error404.jpg: The system cannot find the path specified.
+2020/03/01 09:56:08 can't read file open ./files/main.html: The system cannot find the path specified.
+2020/03/01 09:56:08 can't read file open ./files/error404.jpg: The system cannot find the path specified.
+2020/03/01 09:56:09 incorrect request
+2020/03/01 09:56:09 incorrect request
+2020/03/01 09:56:52 start application
+2020/03/01 09:56:56 can't read file open ./server/files/main.html: The system cannot find the file specified.
+2020/03/01 09:56:56 can't read file open ./files/error404.jpg: The system cannot find the path specified.
+2020/03/01 09:56:59 incorrect request
+2020/03/01 09:56:59 can't read file open ./server/files/main.html: The system cannot find the file specified.
+2020/03/01 09:56:59 can't read file open ./files/error404.jpg: The system cannot find the path specified.
+2020/03/01 09:57:09 incorrect request
+2020/03/01 09:57:45 start application
+2020/03/01 09:57:50 can't read file open main.html: The system cannot find the file specified.
+2020/03/01 09:57:50 can't read file open error404.jpg: The system cannot find the file specified.
+2020/03/01 09:57:51 can't read file open main.html: The system cannot find the file specified.
+2020/03/01 09:57:51 can't read file open error404.jpg: The system cannot find the file specified.
+2020/03/01 09:57:51 can't read file open main.html: The system cannot find the file specified.
+2020/03/01 09:57:51 can't read file open error404.jpg: The system cannot find the file specified.
+2020/03/01 09:57:59 incorrect request
+2020/03/01 09:58:14 start application
+2020/03/01 09:58:21 can't read file open favicon.ico: The system cannot find the file specified.
+2020/03/01 09:58:29 incorrect request
+2020/03/01 09:58:29 incorrect request
+2020/03/01 09:59:10 start application
+2020/03/01 09:59:14 can't read file open favicon.ico: The system cannot find the file specified.
+2020/03/01 09:59:19 incorrect request
+2020/03/01 09:59:19 incorrect request
+2020/03/01 09:59:51 start application
+2020/03/01 09:59:55 can't read file open favicon.ico: The system cannot find the file specified.
