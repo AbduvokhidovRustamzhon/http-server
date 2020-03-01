@@ -1,0 +1,16 @@
+2020/03/01 10:09:32 start application
+2020/03/01 10:09:37 can't read file open favicon.ico: The system cannot find the file specified.
+2020/03/01 10:09:39 incorrect request
+2020/03/01 10:09:53 can't read file open favicon.ico: The system cannot find the file specified.
+2020/03/01 10:09:54 can't read file open favicon.ico: The system cannot find the file specified.
+2020/03/01 10:09:56 can't read file open photo.jpg: The system cannot find the file specified.
+2020/03/01 10:09:58 can't read file open photo.png: The system cannot find the file specified.
+2020/03/01 10:09:59 incorrect request
+2020/03/01 10:10:01 can't read file open file.html: The system cannot find the file specified.
+2020/03/01 10:10:09 incorrect request
+2020/03/01 10:10:09 incorrect request
+2020/03/01 10:10:11 can't read file open file.html: The system cannot find the file specified.
+2020/03/01 10:10:19 incorrect request
+2020/03/01 10:10:21 can't read file open photo.jpg: The system cannot find the file specified.
+2020/03/01 10:10:29 incorrect request
+2020/03/01 10:10:29 incorrect request
